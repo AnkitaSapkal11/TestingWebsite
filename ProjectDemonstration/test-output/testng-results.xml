@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-07T13:41:16 IST" name="Default suite" finished-at="2023-09-07T13:44:16 IST" duration-ms="180263">
+    <groups>
+    </groups>
+    <test started-at="2023-09-07T13:41:16 IST" name="Default test" finished-at="2023-09-07T13:44:16 IST" duration-ms="180263">
+      <class name="testCase.TC01">
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@7b98f307]" started-at="2023-09-07T13:41:17 IST" name="BeforeMethod" finished-at="2023-09-07T13:42:07 IST" duration-ms="50887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifylogin()[pri:0, instance:testCase.TC01@7b98f307]" started-at="2023-09-07T13:42:07 IST" name="verifylogin" finished-at="2023-09-07T13:42:17 IST" duration-ms="9918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@7b98f307]" started-at="2023-09-07T13:42:17 IST" name="BeforeMethod" finished-at="2023-09-07T13:42:35 IST" duration-ms="17922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyabout()[pri:1, instance:testCase.TC01@7b98f307]" started-at="2023-09-07T13:42:35 IST" name="verifyabout" finished-at="2023-09-07T13:43:01 IST" duration-ms="25657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyabout -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@7b98f307]" started-at="2023-09-07T13:43:01 IST" name="BeforeMethod" finished-at="2023-09-07T13:43:52 IST" duration-ms="50808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="VerifyAddToCard()[pri:2, instance:testCase.TC01@7b98f307]" started-at="2023-09-07T13:43:52 IST" name="VerifyAddToCard" finished-at="2023-09-07T13:44:16 IST" duration-ms="24534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAddToCard -->
+      </class> <!-- testCase.TC01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
